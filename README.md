@@ -25,7 +25,9 @@ Connector for MySQL databases.
         <li><a href="#column-functions">Column functions</a></li>
       </ul>
     </li>
-
+    <li>
+      <a href="#contact">Contact</a>
+    </li>
   </ol>
 </details>
 
@@ -143,6 +145,10 @@ $mysql->updateColumn("database1", "table1", "col1", "INT(12) NOT NULL AUTO_INCRE
 // Drop a column
 $mysql->dropColumn("database1", "table1", "col1");
 ```
+
+## Contact
+
+Wai Chung Wong - [Github](https://github.com/WaiChungWong) | [johnwongwwc@gmail.com](mailto:johnwongwwc@gmail.com)
 
 [github-last-commit-image]: https://img.shields.io/github/last-commit/php-laboratory/mysql-connector?style=for-the-badge
 [issues-image]: https://img.shields.io/github/issues/php-laboratory/mysql-connector.svg?style=for-the-badge
